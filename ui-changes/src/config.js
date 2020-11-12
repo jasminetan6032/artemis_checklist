@@ -1,8 +1,8 @@
 module.exports = {
   /* eslint-disable */
-  githubSrc: 'https://raw.githubusercontent.com/user_name/repo_name/branch_name/protocols/schema_file_name.jsonld',
+  githubSrc: 'https://raw.githubusercontent.com/jasminetan6032/artemis_checklist/master/protocols/artemis_schema.jsonld',
   banner: 'This protocol is under construction.',
   startButton: 'Start',
-  assetsPublicPath: '/reproschema_template/',
+  assetsPublicPath: '/artemis_checklist/',
   backendServer: 'null'
 }
